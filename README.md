@@ -1,5 +1,5 @@
-Matrix-Factorization
-====================
+Matrix Factorization for Rating Prediction
+==========================================
 
 This is a code to perform matrix factorization by minimizing the squared euclidean loss error to predict ratings.
 The code in its current state reads data from the Amazon Review Data (ref : http://snap.stanford.edu/data/web-Amazon.html)
